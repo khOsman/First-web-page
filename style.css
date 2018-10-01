@@ -1,0 +1,95 @@
+
+#banner{
+	background-color: #2ecc71;
+	text-align: center;
+	color: white;
+	padding: 5px;
+}
+
+body{
+	background-color:#ecf0f1;
+}
+
+.paragraphbodyText{
+
+	background-color: white;
+	color:#2c3e50;
+	text-align: center;
+	padding: 1px;
+	
+}
+
+#navBar{
+
+	padding: 5px;
+	background-color: white;
+	text-align: center;
+}
+
+#navBar li{
+
+	padding: 5px;
+	display: inline;
+}
+
+#navBar a{
+	text-decoration: none;
+	color: #27ae60;
+	
+}
+
+.linkList{
+	padding: 10px;
+	float: left;
+    background-color:#27ae60;
+    height: 310px; 
+    text-align: center;
+}
+
+.linkList li{
+	margin-top: 95px;
+	margin-right: 20px;
+	display:inline-grid;
+}
+
+.linkList a{
+	text-decoration: none;
+	color: white;
+	
+}
+
+.blogWrapper{
+	
+	text-align: center;
+
+}
+
+.blogSection{
+	float: left;
+	background-color: white;
+	padding: 10px;
+	height: 310px;
+		
+}
+
+.blogs{
+	padding: 5px;
+
+	height: 200px;
+	width: 500px;
+	color: #2c3e50;	
+}
+
+.blogs img{
+	width: 300px;
+	height: 120px;
+}
+
+footer{
+	margin-top:700px; 
+	padding: 10px;
+	background-color: white;
+	text-align: center;
+	color: #2c3e50;
+}
+
